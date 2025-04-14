@@ -2,7 +2,7 @@ import { useState } from "react";
 import IngredientList from "./IngredientList";
 import GetRecipe from "./GetRecipe";
 import SuggestedRecipe from './SuggestedRecipe'
-import { getRecipeFromMistral } from "../../Recipess";
+// import { getRecipeFromMistral } from "../../Recipess";
 export default function AddIngredient() {
   // function handleSubmit(event){
   //     event.preventDefault()
