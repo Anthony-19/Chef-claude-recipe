@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "chef_claude",
   "private": true,
   "version": "0.0.0",
@@ -13,7 +12,8 @@
   "dependencies": {
     "@huggingface/inference": "^3.7.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-markdown": "^10.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
@@ -25,9 +25,5 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^15.15.0",
     "vite": "^6.2.0"
-=======
-  "dependencies": {
-    "react-markdown": "^10.1.0"
->>>>>>> 9cadecd7e515732e9b340b154e378b6b7b82c442
   }
 }
